@@ -6,7 +6,7 @@
 
 ##### Install scoop: https://scoop.sh/
 
-###### scoop install netcat
-###### nc localhost 8080
+###### $ scoop install netcat
+###### $ nc localhost 8080
 
 
